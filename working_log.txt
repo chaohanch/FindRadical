@@ -1,2 +1,2 @@
 Resources:
-Chinese language database / 中文数据库
+Chinese language database / 中文数据库: https://docs.google.com/spreadsheets/d/1SxoqHYYJOBF0TBHHkFJfwIR6RuQzfbr5c4wXn8cR54M/edit#gid=770617357
